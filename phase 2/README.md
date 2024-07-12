@@ -1,5 +1,3 @@
-# Simple C++ Compiler
-
 ## Overview
 This project implements a basic C++ compiler capable of analyzing and understanding a simplified subset of C++ code. It focuses on two essential tasks in compiler construction: lexical analysis and syntax analysis.
 
