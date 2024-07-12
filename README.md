@@ -1,5 +1,5 @@
 ## Compiler course projects at IUST 
 
-+ phase one:
-+ phase two:
-+ phase three:
++ phase one: Lexical Analyzer
++ phase two: Parse Tree
++ phase three: Three-Address‬‬ Code‬‬‫‪ 
